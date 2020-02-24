@@ -1,0 +1,161 @@
+.BODY{
+    background: #cdcdcf;
+}
+.GG{
+    background: #5075A1;
+}
+.GG h3{
+    padding: 8px 25px;
+}
+.form-inline input{
+    height: 35px;
+    margin-left: 100px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 70px;
+    font-size: 18px;
+    background: #324669;
+    border-color: #324669;
+}
+.form-inline img {
+    margin-left: 118px;
+    position: absolute;
+    width: 28px;
+}
+ul.nav{
+    float: left;
+    width: 15%;
+    box-sizing: border-box;
+    margin-top: 40px;
+}
+a.nav-link{
+    color: #5075A1;
+}
+.Main{
+    margin-top: 40px;
+    float: left;
+    width: 85%;
+}
+.FF{
+    float: left;
+    box-sizing: border-box;
+    width: 33%;
+}
+.photo-container{
+    padding-bottom: 15px;;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.FF img{
+    padding: 15px 20px;
+    height: 300px;
+    width: 100%;
+}
+.friends{
+    border-radius: 8px;
+    background-color: white;
+}
+.RIGHT{
+    float: left;
+    margin-top: -679px;
+   margin-left: 340px;
+    box-sizing: border-box;
+    width: 80%;
+}
+.MyPhoto, .Posts, .About{
+    width: 100%;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.About h4{
+    font-weight: 380;
+}
+.ONLINE{
+    margin-left: 480px;
+}
+.Life{
+    padding-left: 16px;
+}
+.Ans1{
+    margin-left: 100px;
+}
+.Ans2{
+    margin-left: 158px;
+
+}
+.Ans3{
+    margin-left: 65px;
+
+}
+.Ans4{
+    margin-left: 112px;
+
+}
+.Ans5{
+    margin-left: 144px;
+
+}
+.Edit{
+    margin-left: 20px;
+    padding: 5px 68px;
+    text-align: center;
+    color: #4B4A5F;
+    font-size: 20px;
+    background-color: #E9EAEE;
+    border: #E9EAEE 0px solid;
+}
+.imgf img{
+    float: left;
+    height: 85px;
+    width: 31%;
+}
+.CENT{
+    text-align: center;
+}
+.photos{
+    height: 180px;
+    margin: 3px;
+    width: 160px;
+}
+.wide{
+    width: 182px;
+}
+.Posts img{
+    height: 80px;
+    width: 80px;
+}
+.Per30{
+    float: left;
+    width: 13%;
+}
+.Per30 img{
+    height: 60px;
+    width: 60px;
+}
+.Per70{
+    float: left;
+    width: 85%;
+}
+.RTV{
+    padding-left: 35px;
+}
+.ATV{
+    padding-left: 37px;
+
+}
+.BEX{
+    padding-left: 40px;
+}
+.RTV-1{
+    padding-left: 42px;
+}
+.ATV-1{
+    padding-left: 40px;
+
+}
+.BEX-1{
+    padding-left: 28px;
+
+}
